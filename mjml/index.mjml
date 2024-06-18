@@ -1,0 +1,99 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Ecosup Commerce 052024</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
+    <mj-raw>
+      <meta name="color-scheme" content="light"></meta>
+      <meta name="supported-color-schemes" content="light"></meta>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Arial, Helvetica, sans-serif"/>
+      <mj-class name="D_text" font-size="16px" font-weight="400" line-height="20px" color="#2D3748"/>
+      <mj-class name="D_footer" font-size="12px" font-weight="300" line-height="16px" color="#2D3748"/>
+    </mj-attributes>
+    <mj-style>
+      .hover:hover td, .hover:hover a{
+          background-color: #06421C !important;
+      }
+      .hoverA:hover td, .hoverA:hover a{
+          background-color: #AA3E17 !important;
+          color: #EC6608 !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#edf2f7">
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" border="none" src="https://img.mailinblue.com/3403292/images/content_library/original/65ffecee9d8a3bdbe17813ea.jpg" alt="Galerie Marchande dans un centre commercial"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0" background-color="#ffffff">
+      <mj-column width="480px">
+        <mj-text font-size="16px" font-weight="900" line-height="20px" color="#AA3E17" padding-top="0" padding-bottom="0" text-transform="uppercase">Bachelor RDC</mj-text>
+        <mj-text font-size="24px" font-weight="400" line-height="26px" color="#EC6608" padding-top="0">Et si ton avenir professionnel passait par <strong>l'Alternance</strong> ?</mj-text>
+        <mj-text mj-class="D_text">Tu termines ta deuxième année de BTS, et si tu te tournais vers une spécialisation en <strong>Bachelor Responsable de Développement Commercial</strong> en <strong>Alternance</strong> à <strong>Ecosup Commerce</strong> ?</mj-text>
+        <mj-text mj-class="D_text" padding-bottom="0">Le <strong>Bachelor RDC</strong> te permet d'appronfondir tes compétences en commerce. Tu vas apprendre à :</mj-text>
+        <mj-text mj-class="D_text" padding-top="0" padding-bottom="0" padding-left="40px">- Piloter le développement opérationnel du plan d'action,</mj-text>
+        <mj-text mj-class="D_text" padding-top="0" padding-bottom="0" padding-left="40px">- Développer la stratégie de croissance de l'entreprise,</mj-text>
+        <mj-text mj-class="D_text" padding-top="0" padding-left="40px">- Manager une équipe commerciale.</mj-text>
+        <mj-text mj-class="D_text">Tu deviens Apprenti <strong>Responsable de développement Commercial</strong> pendant 1 an auprès d'une entreprise en BtoB, ou adjoint chef de rayon en Grande Distribution ou en magasin et découvres ton futur métier !</mj-text>
+        <mj-text mj-class="D_text">Je te propose de te rencontrer pour te permettre de découvrir ce qui s'offre à toi.</mj-text>
+        <mj-text mj-class="D_text">Alors contacte moi :</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" background-color="#ffffff">      
+      <mj-group width="180px">
+        <mj-column width="50%">
+          <mj-button css-class="hover" href="mailto:ml.wallaert@ecosup-campus.fr" align="right" target="_blank" padding="0 15px 0 0" inner-padding="0" width="60px" height="60px" border-radius="5px" background-color="#198754" line-height="36px"><img src="https://img.mailinblue.com/3403292/images/content_library/original/65ffecfb9d8a3bdbe17813ec.png" style="width:36px;text-align:center;vertical-align:middle;" alt="Contact Email"/></mj-button>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-button css-class="hover" href="tel:+33320700606" align="left" target="_blank" padding="0 0 0 15px" inner-padding="0" width="60px" height="60px" border-radius="5px" background-color="#198754" line-height="36px"><img src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed049d8a3bdbe17813ed.png" style="width:36px;text-align:center;vertical-align:middle;" alt="Contact Phone"/></mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-group width="480px">
+        <mj-column width="40%">
+          <mj-image align="right" padding="0" width="100px" src="https://i.ibb.co/Mskj4kV/Marie-Laurence.jpg" alt="Laurence Wallaert responsable pédagogique"/>
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text mj-class="D_text" padding-bottom="0">À bientôt</mj-text>
+          <mj-text mj-class="D_text" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Marie-Laurence</span> <span style="text-transform:uppercase;font-weight:700;">Wallaert</span></mj-text>
+          <mj-text mj-class="D_text" padding-top="0" padding-bottom="0">Responsable pédagogique</mj-text>
+          <mj-text mj-class="D_text" padding-top="0" padding-bottom="0">Ecosup-commerce</mj-text>
+          <mj-text mj-class="D_text" padding-top="0">Tourcoing</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="480px">
+        <mj-button css-class="hoverA" font-size="16px" font-weight="600" background-color="#EC6608" border-radius="5px" text-transform="uppercase" inner-padding="14px 24px" href="https://ecosup-commerce.fr/wp-content/uploads/2024/01/FicheBACHELORRDC16012024.pdf">Télécharger la fiche Bachelor RDC</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="480px">
+        <mj-social inner-padding="0 20px" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook">   </mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column width="480px">
+        <mj-image padding="0" border="none" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65ffed0f9d8a3bdbe17813ef.png" alt="Logo Ecosup-Campus"/>
+        <mj-text align="center" mj-class="D_footer" padding-top="0" padding-bottom="0">17 Place Charles et Albert Roussel</mj-text>
+        <mj-text align="center" mj-class="D_footer" padding-top="0">59200 tourcoing  </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="480px">
+        <mj-text align="center" mj-class="D_footer" padding-top="0" padding-bottom="0">Si tu ne visualises pas cet email correctement, clique <a style="text-decoration:none;color:#EC6608;" href="{{ mirror }}">ici</a>.</mj-text>
+        <mj-text align="center" mj-class="D_footer" padding-top="0" padding-bottom="0">Tu reçois ce message parce que tu t'es inscrit(e) aux communications d'Ecosup Campus.</mj-text>
+        <mj-text align="center" mj-class="D_footer" padding-top="0" text-transform="uppercase"><a style="text-decoration:none;color:#EC6608;" href="{{ unsubscribe }}">Se desinscrire</a></mj-text>
+        <mj-text align="center" mj-class="D_footer">@ 2024 Ecosup Campus</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
